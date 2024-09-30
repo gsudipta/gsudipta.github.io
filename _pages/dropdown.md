@@ -1,16 +1,14 @@
 ---
 layout: page
-title: submenus
+title: More
 nav: true
-nav_order: 8
+nav_order: 4
 dropdown: true
-children:
-  - title: publications
-    permalink: /publications/
-  - title: divider
-  - title: projects
-    permalink: /projects/
-  - title: divider
-  - title: blog
-    permalink: /blog/
+children: 
+    
+    - title: Teaching
+      permalink: /teaching/
+    - title: CV
+      newtab: true
+      permalink: /assets/pdf/SudiptaGhoshResume.pdf
 ---
