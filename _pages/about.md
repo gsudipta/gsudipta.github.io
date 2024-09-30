@@ -26,4 +26,4 @@ I have extensive experience in both empirical and quantitative economic research
 
 I will be available for interviews during the  CEEE, EJME, and  AEA/ASSA virtual meetings.
 
-[Job Market Paper]()
+[Job Market Paper](Coming soon!)
