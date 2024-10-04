@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
@@ -20,10 +20,10 @@ social: true # includes social icons at the bottom of the page
 ---
 Welcome!
 
-My name is Sudipta and I am a PhD Candidate in Vancouver School of Economics, University of British Columbia. I am on the 2024/25 job market and expect to graduate in 2025.
+My name is Sudipta and I am a PhD Candidate in the Vancouver School of Economics, University of British Columbia. I am on the 2024/25 job market and expect to graduate in 2025.
 
-I have extensive experience in both empirical and quantitative economic research. My research interests includes Macroeconomics, International Trade and Labor Economics with a particular focus on firm dynamics.
+I have extensive experience in both empirical and quantitative economic research. My research interests include Macroeconomics, International Trade, and Labor Economics, focusing on firm dynamics.
 
 I will be available for interviews during the  CEEE, EJME, and  AEA/ASSA virtual meetings.
 
-[Job Market Paper](Coming soon!)
+[Job Market Paper]Coming soon!
