@@ -4,7 +4,7 @@ layout: page
 permalink: /teaching/ 
 title: "Teaching"
 description: The list below provides an overview of the courses I have TA'ed as a PhD student. TA responsibilities includes holding tutorial sessions, office hours and grading.
-nav: false
+nav: true
 nav_order: 6
 ---
 
