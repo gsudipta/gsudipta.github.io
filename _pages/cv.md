@@ -2,6 +2,6 @@
 layout: page
 permalink: /cv/
 title: CV
-nav: false
+nav: true
 cv_pdf: SudiptaGhoshResume.pdf
 ---
