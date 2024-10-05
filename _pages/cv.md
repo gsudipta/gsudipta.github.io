@@ -9,7 +9,7 @@ description:
 toc:
   sidebar: left
 ---
-## CONTACT
+- ## CONTACT
 Vancouver School of Economics
 University of British Columbia
 6000 Iona Drive, Vancouver
