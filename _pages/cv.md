@@ -15,10 +15,10 @@ University of British Columbia
 6000 Iona Drive, Vancouver
 BC Canada V6T 1L4 
 
- \href{sudipta.ghosh1925@gmail.com}{Email} \href{https://www.linkedin.com/in/sudipta-g-92486259/}Linkedin}
+ \href{sudipta.ghosh1925@gmail.com}{Email} \href{https://www.linkedin.com/in/sudipta-g-92486259/}{Linkedin}
 
 ## Education
 
-**Ph.D. in Economics**  
-*XYZ University*  
-2020 - 2023
+**Ph.D. Candidate, Economics**  
+*University of British Columbia*  
+2019 - 2025 (Expected)
