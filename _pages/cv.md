@@ -17,8 +17,11 @@ BC Canada V6T 1L4
 
  \href{sudipta.ghosh1925@gmail.com}{Email} \href{https://www.linkedin.com/in/sudipta-g-92486259/}{Linkedin}
 
-## Education
+- ## Education
 
-**Ph.D. Candidate, Economics**  
+- **Ph.D. Candidate, Economics**  
 *University of British Columbia*  
 2019 - 2025 (Expected)
+
+  - **Work Experience**  
+  Data Scientist, ABC Corp, 2020-Present
