@@ -13,9 +13,9 @@
           name: Resume PDF 
     - name: Contact
       links:
-        - link: [Email](sudipta.ghosh1925@gmail.com)
+        - link: <a href ="sudipta.ghosh1925@gmail.com">
           name: Email
-        - link: [Linkedin](https://www.linkedin.com/in/sudipta-g-92486259/)
+        - link: <a href ="https://www.linkedin.com/in/sudipta-g-92486259/"
           name: LinkedIn
 
 - title: Education
