@@ -7,9 +7,9 @@
       value: Bengali (native), English (fluent), Hindi (fluent)
     - name: Download CV 
       links:
-        - link: /assets/pdf/CV_RequenaPlensJoseManuel_SPA.pdf
+        - link: /assets/pdf/SudiptaGhoshResume.pdf
           name: CV PDF [Academic]
-        - link: /assets/pdf/CV_RequenaPlensJoseManuel_ENG.pdf
+        - link: /assets/pdf/SudiptaGhosh_CV_ind.pdf
           name: Resume PDF 
     - name: Contact
       links:
