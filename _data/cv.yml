@@ -12,7 +12,7 @@
         - link: /assets/pdf/CV_RequenaPlensJoseManuel_ENG.pdf
           name: Resume PDF 
     -name: Contact
-        links:
+      links:
         -link: [Email](sudipta.ghosh1925@gmail.com)
          name: Email
          -link: [Linkedin](https://www.linkedin.com/in/sudipta-g-92486259/)
