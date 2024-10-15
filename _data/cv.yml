@@ -13,9 +13,9 @@
           name: Resume PDF 
     - name: Contact
       links:
-        - link: <a href ="sudipta.ghosh1925@gmail.com" 
+        - link: <a href ="sudipta.ghosh1925@gmail.com" a> 
           name: Email
-        - link: <a href ="https://www.linkedin.com/in/sudipta-g-92486259/"
+        - link: <a href ="https://www.linkedin.com/in/sudipta-g-92486259/" a>
           name: LinkedIn
 
 - title: Education
@@ -93,72 +93,37 @@
         - name: 93rd SED Meetings, Louisiana, USA, 2023
         - name: 58th CEA Meetings, Toronto, Canada, 2024 
             
-    - category: Software
-      icon: fas fa-window-maximize
-      items:
-        - name: PyCharm
-          level: Intermediate level.
-        - name: CLion
-          level: Intermediate level.
-        - name: COMSOL Multiphysics
-          level: Advanced level.
-        - name: LabView
-          level: Intermediate level.
-        - name: CATT-Acoustic
-          level: Intermediate/advanced.
-        - name: EASE
-          level: Intermediate level.
-        - name: Excel
-          level: Advanced level.
-        - name: Suite Adobe
-          level: Intermediate level.
-    - category: Document composition
-      icon: fas fa-book
-      items:
-        - name: LaTeX
-          level: Advanced level.
-        - name: Word
-          level: Intermediate/advanced level.
-        - name: Power Point
-          level: Advanced level.
-    - category: Microcontroller development
+         
+    - category: Programming 
       icon: fas fa-microchip
       items:
-        - name: Texas Instruments
-          level: Intermediate level.
-        - name: Arduino
-          level: Advanced level.
-        - name: Espressif
-          level: Advanced level.
-    - category: Operating systems
-      icon: fas fa-desktop
-      items:
-        - name: MacOS
-          level: Advanced level.
-        - name: Windows
-          level: Advanced level.
-        - name: Linux
-          level: Intermediate/advanced level.
-        - name: iOS
-          level: Advanced level.
-        - name: Android
-          level: Intermediate level.
-    - category: Instrumentation
-      icon: fas fa-toolbox
-      items:
-        - name: DAQs
-          level: NI PXI & Compact, TiePie HS, Red Pitaya.
-        - name: Laser Vibrometer
-          level: Polytec.
-        - name: Accelerometers
-          level: Brüel & Kjær.
-        - name: Microphones
-          level: Brüel & Kjær.
-        - name: Sound level meters
-          level: Brüel & Kjær, NTI, CESVA.
-        - name: Oscilloscopes
-          level: Tektronix, Rigol.
+        - name: Programming
+          level: Python (Pandas, NumPy, etc.), R, Stata, Julia, Matlab, SQL
+        - name:  Database
+          level: Neilson Scanner, DataStream, Bloomberg, Survey Data, I/O Tables, Time Series
+        - name: Analytics
+          level: Diff-in-Diff, Event Studies, Instrumental Variables, Regression Discontinuity, Discrete Choice
+                 models, Causal Machine Learning, A/B testing, Time series analysis
+        - name: Type Setting
+          level: LaTex, MS-Office    
+          
+- title: Grants, Awards and Fellowships
+  type: time_table
+  contents:
+    - title: Graduate Student Fellowship, UBC
+      institution: University of British Columbia
+      # department: Solar + Storage (<a href="https://power-electronics.com/en/solar/">PE Solar</a>)
+      location: Vancouver, Canada
+      year: 2019-2024
+      
+    - title: President’s Excellence Award, UBC  
+      institution: CUniversity of British Columbia
+      # department: Solar + Storage (<a href="https://power-electronics.com/en/solar/">PE Solar</a>)
+      location: Vancouver, Canada
+      year: 2019-Present
+      
 
+    
 
 # - title: Academic Interests
 #   type: nested_list
