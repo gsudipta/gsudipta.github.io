@@ -13,12 +13,12 @@
           name: CV PDF [Academic]
         - link: /assets/pdf/SudiptaGhosh_CV_ind.pdf
           name: Resume PDF 
-    - name: Contact
-      links:
-        - link: <a href="mailto:sudipta.ghosh1925@gmail.com">Email</a>
-          name: Email
-        - link: <a href ="https://www.linkedin.com/in/sudipta-g-92486259/">Linkedin </a>
-          name: LinkedIn
+   # - name: Contact
+   #   links:
+   #     - link: <a href="mailto:sudipta.ghosh1925@gmail.com">Email</a>
+   #       name: Email
+   #     - link: <a href ="https://www.linkedin.com/in/sudipta-g-92486259/">Linkedin </a>
+   #       name: LinkedIn
 
 - title: Education
   type: time_table
@@ -95,36 +95,37 @@
             
          
 - title: Technical Skills 
-  type: list_groups
+  type: nested_list
   contents:
-    - category: 
-      icon: fas fa-microchip
+    - Title: Programming 
       items:
-        - name: Programming
-          level: Python (Pandas, NumPy, etc.), R, Stata, Julia, Matlab, SQL
-        - name:  Database
-          level: Neilson Scanner, DataStream, Bloomberg, Survey Data, I/O Tables, Time Series
-        - name: Analytics
-          level: Diff-in-Diff, Event Studies, Instrumental Variables, Regression Discontinuity, Discrete Choice
-                 models, Causal Machine Learning, A/B testing, Time series analysis
-        - name: Type Setting
-          level: LaTex, MS-Office    
+        - Python (Pandas, NumPy, etc.), R, Stata, Julia, Matlab, SQL
+    - Title: Database 
+      items:
+        - Neilson Scanner, DataStream, Bloomberg, Survey Data, I/O Tables, Time Series
+    - Title: Analytics 
+      items:
+        - Diff-in-Diff, Event Studies, Instrumental Variables, Regression Discontinuity,
+        - Discrete Choice models, Causal Machine Learning, A/B testing, Time series analysis
+    - Title: Type Setting 
+      items:
+        - LaTex, MS-Suite
           
 - title: Grants, Awards and Fellowships
-  type: time_table
+  type: nested_list
   contents:
-    - title: Graduate Student Fellowship, UBC
-      institution: University of British Columbia
-      # department: Solar + Storage (<a href="https://power-electronics.com/en/solar/">PE Solar</a>)
-      location: Vancouver, Canada
-      year: 2019-2024
+    - title: 
+      items:
+        - Graduate Student Fellowship, UBC, 2019 - 2014
+        - President’s Excellence Award, UBC, 2019 - Present 
+        - International Tuition Award, UBC, 2019 - 2024
+        - Graduate Student Fellowship, UBC, 2019 - 2024
+        - Best Employee Award, S&P Global, 2016
+        - Best Team Innovation Award, S&P Global, 2015 
       
-    - title: President’s Excellence Award, UBC  
-      institution: University of British Columbia
-      # department: Solar + Storage (<a href="https://power-electronics.com/en/solar/">PE Solar</a>)
-      location: Vancouver, Canada
-      year: 2019-Present
       
+      
+          
 
     
 
