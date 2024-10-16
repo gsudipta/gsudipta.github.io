@@ -5,7 +5,9 @@
       value: Sudipta Ghosh
     - name: Languages
       value: Bengali (native), English (fluent), Hindi (fluent)
-    - name: Download CV 
+    - name: Status
+      value: Indian, Canadian Permanent Resident
+    - name: CV 
       links:
         - link: /assets/pdf/SudiptaGhoshResume.pdf
           name: CV PDF [Academic]
@@ -13,9 +15,9 @@
           name: Resume PDF 
     - name: Contact
       links:
-        - link: <a href ="sudipta.ghosh1925@gmail.com" a> 
+        - link: <a href="mailto:sudipta.ghosh1925@gmail.com">Email</a>
           name: Email
-        - link: <a href ="https://www.linkedin.com/in/sudipta-g-92486259/" a>
+        - link: <a href ="https://www.linkedin.com/in/sudipta-g-92486259/">Linkedin </a>
           name: LinkedIn
 
 - title: Education
@@ -86,7 +88,7 @@
 - title: Conferences and Presentations
   type: list_groups
   contents:
-    - category: Teaching Assistant, University of British Columbia 
+    - category: 
       icon: fas fa-code
       items:
         - name: 5th International Conference on European Studies, Zurich (Selected), 2023
@@ -94,7 +96,10 @@
         - name: 58th CEA Meetings, Toronto, Canada, 2024 
             
          
-    - category: Programming 
+- title: Technical Skills 
+  type: list_groups
+  contents:
+    - category: 
       icon: fas fa-microchip
       items:
         - name: Programming
@@ -117,7 +122,7 @@
       year: 2019-2024
       
     - title: President’s Excellence Award, UBC  
-      institution: CUniversity of British Columbia
+      institution: University of British Columbia
       # department: Solar + Storage (<a href="https://power-electronics.com/en/solar/">PE Solar</a>)
       location: Vancouver, Canada
       year: 2019-Present
