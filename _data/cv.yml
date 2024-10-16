@@ -72,26 +72,26 @@
       location: Pune, India
       
 - title: Teaching Experience
-  type: map
+  type: nested_list
   contents:
-    - name: Teaching Assistant, University of British Columbia 
-     value: Econ 302, Intermediate Macroeconomics (BA), 2020,2021,2023
-     value: Econ 323, Quantitative Economic Modeling and Data Science, (BA), 2021
-     value: Econ 502, Macroeconomics (MA), 2023, 2024
-     value: Econ 356, Introduction to International Finance (BA)‑TA, 2021
-     value: Econ 345, Money and Banking (BA), 2022, 2023
-     value: Econ 350, Public Finance Policy Topics (BA), Teacher, 2023
-     value: BABS 502, Descriptive and Predictive Business (MBA), 2021
-
+    - title: Teaching Assistant, University of British Columbia 
+      items: 
+        - Econ 302, Intermediate Macroeconomics (BA), 2020,2021,2023
+        - Econ 323, Quantitative Economic Modeling and Data Science, (BA), 2021
+        - Econ 502, Macroeconomics (MA), 2023, 2024
+        - Econ 356, Introduction to International Finance (BA)‑TA, 2021
+        - Econ 345, Money and Banking (BA), 2022, 2023
+        - Econ 350, Public Finance Policy Topics (BA), Teacher, 2023
+        - BABS 502, Descriptive and Predictive Business (MBA), 2021
+   
 - title: Conferences and Presentations
-  type: list_groups
+  type: nested_list
   contents:
-    - category: 
-      icon: fas fa-code
+    - Title: 
       items:
-        - name: 5th International Conference on European Studies, Zurich (Selected), 2023
-        - name: 93rd SED Meetings, Louisiana, USA, 2023
-        - name: 58th CEA Meetings, Toronto, Canada, 2024 
+        - 5th International Conference on European Studies, Zurich (Selected), 2023
+        - 93rd SED Meetings, Louisiana, USA, 2023
+        - 58th CEA Meetings, Toronto, Canada, 2024 
             
          
 - title: Technical Skills 
