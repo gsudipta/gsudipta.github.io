@@ -1,10 +1,9 @@
 ---
 layout: cv
 permalink: /cv/
-title: Curriculum Vitae
+title: CV
 nav: true
-nav_order: 5
-cv_pdf: SudiptaGhosh_CV_ind.pdf
+nav_order: 4
 description: 
 toc:
   sidebar: left
